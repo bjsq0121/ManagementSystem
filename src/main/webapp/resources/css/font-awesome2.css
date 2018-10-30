@@ -1,0 +1,10 @@
+@CHARSET "UTF-8"
+
+@font-face {
+	font-family: 'BMYEONSUNG';
+	src: url("/font/BMYEONSUNG_ttf.ttf") format('truetype');
+}
+
+h1{
+	font-family: BMYEONSUNG
+}
