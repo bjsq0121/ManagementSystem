@@ -93,7 +93,7 @@
  	<bean id="mydbSession" class="org.mybatis.spring.SqlSessionTemplate" destroy-method="clearCache">
 		<constructor-arg ref="mydb_sqlSessionFactory" />
 	</bean>  
-	<!-- preeddb end -->
+	<!-- MariaDB : mydb  end -->
 	
 	
 		
